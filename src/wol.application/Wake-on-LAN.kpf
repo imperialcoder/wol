@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="4CA0A45D-E7E8-43F0-8872-42926CDCFB55" kpf_version="4" name="Wake-on-LANClient.kpf">
+<preference-set idref="4CA0A45D-E7E8-43F0-8872-42926CDCFB55">
+  <boolean id="import_live">1</boolean>
+</preference-set>
+</project>

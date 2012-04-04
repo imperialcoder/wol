@@ -1,0 +1,31 @@
+.palm-page-header-wrapper .title.sub {
+	font-size: 14px;
+	padding-top: 0px;
+	margin-top: 0px;
+	margin-left: 20px;
+}
+
+.palm-page-header-wrapper .title.main {
+	margin-bottom: 0px;
+	padding-bottom: 5px;
+	margin-left: 20px;
+}
+
+.palm-page-header-wrapper .icon {
+	width: 65px;
+	height: 85px;
+	background: url(../icon.png) center center no-repeat;
+}
+
+.aboutLabel {
+	float: left;
+	width: 120px;
+	padding-right: 8px;
+	margin-bottom: 3px;
+	text-align: right;
+}
+
+.aboutValue {
+	font-weight: bold;
+	margin-bottom: 3px;
+}

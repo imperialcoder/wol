@@ -1,0 +1,13 @@
+{
+  "id": "com.thebitguru.wol",
+  "package_format_version": 2,
+  "loc_name": "Wake on LAN",
+  "version": "0.8.1",
+  "icon": "icon.png",
+  "miniicon": "icon.png",
+  "vendor": "The Bit Guru",
+  "vendorurl": "thebitguru.com",
+  "app": "com.thebitguru.wol",
+  "uiRevision":2,
+  "services": ["com.thebitguru.wol.service"]
+}

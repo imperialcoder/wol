@@ -1,0 +1,11 @@
+--- .orig/C:/RnD/webOS/projects/wol/wol.application/stylesheets/
++++ /C:/RnD/webOS/projects/wol/wol.application/stylesheets/
+@@ -29,3 +29,7 @@
+ 	font-weight: bold;
+ 	margin-bottom: 3px;
+ }
++
++.palm-divider.collapsible .line {
++    background: url(../images/palm-divider-collapse-left.png) left -1px repeat;
++}
+\ No newline at end of file

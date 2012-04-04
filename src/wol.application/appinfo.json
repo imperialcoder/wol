@@ -1,0 +1,15 @@
+{
+  "id": "com.thebitguru.wol",
+  "version": "0.8.1",
+  "title": "Wake-on-LAN",
+  "vendor": "The Bit Guru / Farhan Ahmad",
+  "vendorurl": "http: //www.thebitguru.com",
+  "main": "index.html",
+  "icon": "icon.png",
+  "miniicon": "miniicon.png",
+  "type": "web",
+  "theme": "light",
+  "noWindow": false,
+  "noDeprecatedStyles": true,
+  "uiRevision": 2
+}

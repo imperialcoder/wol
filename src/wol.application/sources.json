@@ -1,0 +1,16 @@
+[
+    {"source": "app/models/targetStore.js"},
+    {"source": "app/assistants/stage-assistant.js"},
+    {
+        "scenes": "main",
+        "source": "app/assistants/main-assistant.js"
+    },
+    {
+        "scenes": "target",
+        "source": "app/assistants/target-assistant.js"
+    },
+    {
+        "scenes": "about",
+        "source": "app/assistants/about-assistant.js"
+    }
+]

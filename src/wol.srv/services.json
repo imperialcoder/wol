@@ -1,0 +1,25 @@
+{
+	"id": "com.thebitguru.wol.service",
+		"description": "Wake on LAN Service",
+		"services": [ {
+			"name": "com.thebitguru.wol.service",
+			"description": "Wake on LAN Service",
+			"commands": [
+				{
+					"name": "version",
+					"assistant": "VersionCommandAssistant",
+					"public": true
+				},
+				{
+					"name": "sendWoL",
+					"assistant": "SendWoLCommandAssistant",
+					"public": true
+				},
+				{
+					"name": "validateMACFormat",
+					"assistant": "ValidateMACFormatCommandAssistant",
+					"public": true
+				}
+			]
+		}]
+}
