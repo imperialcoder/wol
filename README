@@ -1,1 +1,3 @@
 wake-on-lan client for webOS, initially from thebitguru.com
+
+0.8.1 updated to support HP TouchPad and added possibility to update mac address entries.
